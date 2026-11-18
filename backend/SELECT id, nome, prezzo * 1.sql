@@ -1,0 +1,1 @@
+SELECT id, nome, prezzo * 1.22 AS prezzo_ivato FROM prodotti;
